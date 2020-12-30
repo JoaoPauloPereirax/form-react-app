@@ -1,0 +1,22 @@
+*{
+   box-sizing: border-box;
+}
+
+body{
+   margin: 0;
+   margin-top: 10px;
+   padding: 0;
+}
+
+.login-container{
+   width: auto;
+   max-width: 600px;
+   margin: auto;
+   padding: 10px;
+   border: 5px solid #09f;
+   text-align: center;
+}
+
+.login-container label input {
+   margin-bottom: 10px;
+}
